@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chatter</string>
+    <string name="notification_channel_name">Messages</string>
+    <string name="notification_channel_description">Chat message notifications</string>
+</resources>
